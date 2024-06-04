@@ -1,1 +1,1 @@
-Arhch dwm 配置文件
+ARCH dwm 配置文件
